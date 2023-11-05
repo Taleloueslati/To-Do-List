@@ -171,11 +171,11 @@ color: rgb(160, 250, 205);
 
 
  .task-text {
-    font-family: Arial, sans-serif; /* Change the font type to your preferred font */
-    font-size: 28px; /* Adjust the font size as needed */
-    color: #fbf8f8; /* Change the text color to your preference */
-    font-weight: bold; /* Make the text bold */
-    text-shadow: 1px 1px 1px #000; /* Apply a subtle text engraving effect */
+    font-family: Arial, sans-serif; 
+    font-size: 28px;
+    color: #fbf8f8; 
+    font-weight: bold; 
+    text-shadow: 1px 1px 1px #000; 
   }
   
   
